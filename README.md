@@ -2,7 +2,7 @@
 
 Este é um projeto de cadastro e listagem de usuários desenvolvido para apresentação das ferramentas React e Laravel em um projeto realizado na matéria de Engenharia de Software II
 
-## Getting Started
+## Iniciando o Projeto
 
 Para testar o projeto em ambiente de desenvolvimento é necessário ter o node, o npm (node package manager) e o php instalados na maquina e rodar os seguintes comandos:
 

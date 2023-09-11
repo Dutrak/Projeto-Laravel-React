@@ -19,3 +19,4 @@ php artisan serve
 ```
 
 Para rodar o projeto, abra uma página em: [http://localhost:5173](http://localhost:5173)
+É necessário a criação de um arquivo `.env` dentro da pasta `backend` com as credenciais do banco de dados, seguindo o modelo do arquivo `.env.example`
